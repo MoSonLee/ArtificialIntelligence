@@ -14,7 +14,7 @@
 </br>
 
 ## 4장
-[바로가기](https://github.com/MoSonLee/ArtificialIntelligence/issues/3#issuecomment-950894137)
+[바로가기](https://github.com/MoSonLee/ArtificialIntelligence/issues/4#issue-1077736440)
 </br>
 
 
