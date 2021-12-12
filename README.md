@@ -17,7 +17,7 @@
 [바로가기](https://github.com/MoSonLee/ArtificialIntelligence/issues/4#issue-1077736440)
 </br>
 
-## 5장
+## 6장
 [바로가기](https://github.com/MoSonLee/ArtificialIntelligence/issues/5#issue-1077746722)
 </br>
 
